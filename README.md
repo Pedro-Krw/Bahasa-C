@@ -11,7 +11,7 @@ Bahasa C pertama kali di gunakan di Bell Telephone Laboratories Inc di pakai pad
 
 Mengapa Belajar Bahasa C
 
-1. Bahasa C bersifat portable,fleksibel dan tersedia hampir di semua platform conputer.
+1. Bahasa C bersifat portable,fleksibel dan tersedia hampir di semua platform computer.
 
 2.Bahasa C hanya menyediakan 32 kata kunci yang membuat nya mudah untuk di pahami
 
